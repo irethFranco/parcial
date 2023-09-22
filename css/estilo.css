@@ -1,0 +1,13 @@
+.gridContainer {
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    position: 100pxr;
+ 
+}
+
+.gridContainer2 {
+    display: grid;
+    grid-template-columns: 40% 40% 20%;
+
+}
